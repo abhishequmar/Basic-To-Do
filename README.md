@@ -75,10 +75,4 @@ A basic RESTful API to manage todo items using Express.js.
     DELETE /todos/:id
     ```
 
-## Errors
 
-- **404 Not Found**: For routes that do not exist.
-
-## License
-
-MIT License
